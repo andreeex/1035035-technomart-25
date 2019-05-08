@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Андрей](https://up.htmlacademy.ru/htmlcss/25/user/1035035).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Горбач](https://htmlacademy.ru/profile/lemberg).
 
 ---
 
